@@ -10,3 +10,5 @@
     packed_name: the output name
     number of packed: the number of packed times more numebr more protected and size will get bigger (10 it's good enough but you can put 100)
 
+    Example: 
+    .\pack.ps1 hello.exe hello_packed.exe 13
