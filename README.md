@@ -12,3 +12,10 @@
 
     Example: 
     .\pack.ps1 hello.exe hello_packed.exe 13
+
+
+# before pack
+<img src="images/before_packed.png">
+
+# before packed
+<img src="images/after_packed.png">
