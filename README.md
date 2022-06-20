@@ -19,5 +19,5 @@
 # before pack
 <img src="images/before_packed.png">
 
-# before packed
+# after packed
 <img src="images/after_packed.png">
