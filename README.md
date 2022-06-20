@@ -13,6 +13,8 @@
     Example: 
     .\pack.ps1 hello.exe hello_packed.exe 13
 
+# Note that will work on just on charp and console apps 
+    you can edit packer.cs and packer_execute.cs for add protection    
 
 # before pack
 <img src="images/before_packed.png">
